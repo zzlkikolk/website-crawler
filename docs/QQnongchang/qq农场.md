@@ -55,3 +55,5 @@ ptuiCB('67', '0', '', '0', '二维码认证中。', '')
 ptuiCB('0', '0', 'https://ssl.ptlogin2.graph.qq.com/check_sig?', '0', '登录成功！', 'xxx', '')
 ```
 需要判断登录成功
+
+登录成功拿到cookie返回

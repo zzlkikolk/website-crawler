@@ -61,6 +61,7 @@ public class QQNongchang {
             qqNongchang.saveCookies(login_cookie);
             log.info("登录成功，cookie：{}", login_cookie);
         }
+
         qqNongchang.getAll(context.getCookies());
     }
 
